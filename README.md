@@ -1,4 +1,4 @@
-# 📈 Quarterly Budget Analysis 2026 — Excel
+# Quarterly Budget Analysis 2026 — Excel
 
 **Project:** Industrial Internship 1 | SDU University | June 2026  
 **Author:** Myrzabek Sagynzhan  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 Analyze the annual 2026 budget of a construction company by quarter:
 - Build **quarterly revenue and expense tables** with financial formulas
@@ -18,7 +18,7 @@ Analyze the annual 2026 budget of a construction company by quarter:
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |---|---|
@@ -27,12 +27,12 @@ Analyze the annual 2026 budget of a construction company by quarter:
 | `Net_income_by_quarter.png` | Bar chart — profit/loss per quarter |
 | `Annual_Expense_structure.png` | Pie chart — annual expense composition |
 
-> 📌 Source Excel file not included due to confidentiality.  
+> Source Excel file not included due to confidentiality.  
 > All data and charts are visible in the images below.
 
 ---
 
-## 📊 Charts
+## Charts
 
 ### Revenue vs Expenses by Quarter
 ![Revenue vs Expenses](Revenue_vs_expenses_by_quarter.png)
@@ -48,7 +48,7 @@ Analyze the annual 2026 budget of a construction company by quarter:
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 | Metric | Q1 | Q2 | Q3 | Q4 |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ Analyze the annual 2026 budget of a construction company by quarter:
 
 ---
 
-## 🛠️ Excel Techniques Used
+## Excel Techniques Used
 
 - Pivot tables for quarterly aggregation
 - Financial formulas: `SUM`, `SUMIF`, percentage share calculations
