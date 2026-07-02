@@ -4,7 +4,7 @@
 **Author:** Myrzabek Sagynzhan  
 **Tools:** Microsoft Excel (pivot tables · formulas · charts)
 
-> ⚠️ Company name and sensitive details anonymized for portfolio purposes.
+> Company name and sensitive details anonymized for portfolio purposes.
 
 ---
 
